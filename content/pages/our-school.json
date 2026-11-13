@@ -1,0 +1,42 @@
+{
+  "title": "Our School",
+  "subtitle": "Our identity, story and commitment",
+  "intro": "Vunimono High School supports learners through academic growth, character, community and opportunity.",
+  "image": "assets/images/our-school/new-vhs-building.jpg",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Our School Direction",
+      "text": "These shared principles guide our school community from year to year."
+    },
+    {
+      "type": "direction"
+    },
+    {
+      "type": "linkcards",
+      "title": "Explore Our School",
+      "items": [
+        {
+          "title": "History and Founder",
+          "text": "Learn about the school’s beginnings.",
+          "link": "history.html"
+        },
+        {
+          "title": "Administration",
+          "text": "Meet the school leadership.",
+          "link": "administration.html"
+        },
+        {
+          "title": "Academics",
+          "text": "Explore subjects and departments.",
+          "link": "academics.html"
+        },
+        {
+          "title": "Facilities",
+          "text": "Discover our learning environment.",
+          "link": "facilities.html"
+        }
+      ]
+    }
+  ]
+}

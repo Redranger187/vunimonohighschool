@@ -1,0 +1,28 @@
+{
+  "schoolName": "VUNIMONO HIGH SCHOOL",
+  "motto": "In all things, be human.",
+  "mission": "To mould every child entering VHS to be the best citizen of the future.",
+  "vision": "To foster holistic development in children for future challenges.",
+  "theme": "To foster holistic development in children for future challenges.",
+  "values": [
+    "Honesty, fairness and respect for truth and justice",
+    "Human rights and dignity",
+    "Sense of family and community",
+    "Commitment, reliability and responsibility",
+    "Quality and excellence",
+    "Self-discipline, accountability and integrity",
+    "Faith, loyalty and compassion."
+  ],
+  "contact": {
+    "address": "Vunimono, Nausori, Fiji Islands",
+    "phone": "(679) 3478776",
+    "mobile": "9980168",
+    "email": "vunimono@yahoo.com"
+  },
+  "links": {
+    "facebook": "https://www.facebook.com/194900890699643",
+    "classroom": "https://classroom.google.com/",
+    "intranet": "https://sites.google.com/vhs.ac.fj/vhsintranet/home?authuser=0"
+  },
+  "footerText": "Quality education, character, community and opportunity."
+}

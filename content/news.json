@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "id": "u19-girls-futsal-2026",
+      "published": "2026-04-15",
+      "date": "15 Apr 2026",
+      "category": "Sports",
+      "title": "Vunimono High U19 Girls Claim Southern Futsal Championship",
+      "summary": "The Vunimono High School Under-19 girls team won the 2026 Southern Secondary Schools Futsal Championship, defeating Mahatma Gandhi Memorial High School 3–0.",
+      "image": "https://www.fijivillage.com/news_images/70763837268a564979a5d4a968dbc1.jpg",
+      "sourceName": "FijiVillage",
+      "sourceUrl": "https://www.fijivillage.com/news/vunimono-high-u19-girls-claim-southern-futsal-championship-title-18cc7d/",
+      "body": "The Vunimono High School Under-19 girls team won the 2026 Southern Secondary Schools Futsal Championship, defeating Mahatma Gandhi Memorial High School 3–0."
+    },
+    {
+      "id": "bure-project-2025",
+      "published": "2025-06-23",
+      "date": "23 Jun 2025",
+      "category": "Community",
+      "title": "School Embarks on $160k Bure Project",
+      "summary": "A 16-bure project was announced as a multifunctional learning and gathering space, connecting learning, culture, community and identity.",
+      "image": "assets/images/news/news-2.svg",
+      "sourceName": "The Fiji Times",
+      "sourceUrl": "https://www.fijitimes.com.fj/school-embarks-on-160k-bure-project/",
+      "body": "A 16-bure project was announced as a multifunctional learning and gathering space, connecting learning, culture, community and identity."
+    },
+    {
+      "id": "principal-award-2024",
+      "published": "2024-12-05",
+      "date": "05 Dec 2024",
+      "category": "Achievement",
+      "title": "Principal’s Award Recognises Student Leadership",
+      "summary": "A school leadership story from the 2024 annual prizegiving, retained in the archive for future reference.",
+      "image": "assets/images/news/news-3.svg",
+      "sourceName": "Fiji Sun",
+      "sourceUrl": "https://fijisun.com.fj/news/nation/head-girl-shines-with-prestigious-principals-award",
+      "body": "A school leadership story from the 2024 annual prizegiving, retained in the archive for future reference."
+    },
+    {
+      "id": "prefects-2023",
+      "published": "2023-03-22",
+      "date": "22 Mar 2023",
+      "category": "Leadership",
+      "title": "Prefects Inducted to Lead the School Community",
+      "summary": "A sample archive entry showing how older school news can remain searchable after newer stories appear on the homepage.",
+      "image": "assets/images/news/news-4.svg",
+      "sourceName": "The Fiji Times",
+      "sourceUrl": "https://www.fijitimes.com.fj/prefects-to-lead-school/",
+      "body": "A sample archive entry showing how older school news can remain searchable after newer stories appear on the homepage."
+    },
+    {
+      "id": "sample-academic-2026",
+      "published": "2026-09-12",
+      "date": "12 Sep 2026",
+      "category": "Academic",
+      "title": "Vunimono Students Excel in National Examinations",
+      "summary": "Sample school-authored placeholder. Replace with the approved examination results story when ready.",
+      "image": "assets/images/news/news-1.svg",
+      "body": "Sample school-authored placeholder. Replace with the approved examination results story when ready."
+    },
+    {
+      "id": "sample-announcement-2026",
+      "published": "2026-08-20",
+      "date": "20 Aug 2026",
+      "category": "Announcement",
+      "title": "New School Announcement",
+      "summary": "Sample school-authored placeholder for a current notice. Add the full approved notice and supporting document through the CMS.",
+      "image": "assets/images/news/news-2.svg",
+      "body": "Sample school-authored placeholder for a current notice. Add the full approved notice and supporting document through the CMS."
+    }
+  ]
+}

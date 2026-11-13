@@ -1,0 +1,11 @@
+{
+  "title": "News and Announcements",
+  "subtitle": "Updates from our school",
+  "intro": "Read school news, achievements, notices and announcements. New stories are added to the archive so earlier updates remain available.",
+  "image": "assets/images/news/page-news.svg",
+  "sections": [
+    {
+      "type": "newsList"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Our People",
+  "subtitle": "The people behind learning",
+  "intro": "Teachers and staff work together to support student wellbeing, achievement and growth.",
+  "image": "assets/images/people/page-people.svg",
+  "sections": [
+    {
+      "type": "linkcards",
+      "title": "Meet Our School Community",
+      "items": [
+        {
+          "title": "Administration",
+          "text": "School leadership and administration team.",
+          "link": "administration.html"
+        },
+        {
+          "title": "Academics",
+          "text": "Explore departments and teaching areas.",
+          "link": "academics.html"
+        }
+      ]
+    }
+  ]
+}

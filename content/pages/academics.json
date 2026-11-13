@@ -1,0 +1,55 @@
+{
+  "title": "Academics",
+  "subtitle": "Learning pathways and departments",
+  "intro": "Our curriculum supports students across junior and senior levels, combining knowledge, practical skills and preparation for future study and work.",
+  "image": "assets/images/academics/academics.jpg",
+  "sections": [
+    {
+      "type": "cards",
+      "title": "Subjects and Departments",
+      "numbered": false,
+      "items": [
+        {
+          "title": "Languages",
+          "text": "English, Hindi and Vosa Vakaviti."
+        },
+        {
+          "title": "Mathematics and Physics",
+          "text": "Mathematics Years 9–13.\nPhysics Years 11–13."
+        },
+        {
+          "title": "Social Sciences",
+          "text": "Social Science Years 9–10.\nHistory and Geography Years 11–13."
+        },
+        {
+          "title": "Sciences",
+          "text": "Basic Science Years 9–10.\nChemistry and Biology Years 11–13."
+        },
+        {
+          "title": "Computer Studies and Business Administration",
+          "text": "Digital Technology Years 9 and 10.\nBusiness Administration Years 9 and 10.\nComputer Studies Years 11-13.\nOffice Technology Years 11-13."
+        },
+        {
+          "title": "Commerce",
+          "text": "Commercial Studies Years 9 and 10.\nAccounting and Economics Years 11-13.\nOffice Technology Years 11-13."
+        },
+        {
+          "title": "Industrial Arts",
+          "text": "Basic Technology Years 9 and 10.\nTechnical Drawing and Applied Technology Years 11-13."
+        },
+        {
+          "title": "Agricultural Science",
+          "text": "Years 9-13."
+        },
+        {
+          "title": "Home Economics",
+          "text": "Home Economics."
+        },
+        {
+          "title": "PEMAC",
+          "text": "Physical Education, Music, Art and Craft."
+        }
+      ]
+    }
+  ]
+}

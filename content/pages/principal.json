@@ -1,0 +1,15 @@
+{
+  "title": "Principal’s Message",
+  "subtitle": "Leadership and partnership",
+  "intro": "We are committed to providing every student with a well-rounded education and the skills to meet future challenges.",
+  "image": "assets/images/administration/principal-photo.jpg",
+  "sections": [
+    {
+      "type": "principalFull",
+      "title": "A message from the Principal",
+      "name": "Bijen Singh",
+      "role": "Principal, Vunimono High School",
+      "text": "I strongly believe that as a school, we have the obligation to provide every student a well-rounded, high-quality education with access to 21st-century skills, curriculum and training. We welcome parents and families as partners in every learner’s success."
+    }
+  ]
+}

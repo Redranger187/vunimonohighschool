@@ -1,0 +1,22 @@
+{
+  "principal": {
+    "name": "Bijen Singh",
+    "role": "Principal",
+    "message": "We are committed to providing every student with a well-rounded education, 21st-century skills and preparation for future study, work and life.",
+    "image": "assets/images/administration/principal-photo.jpg"
+  },
+  "team": [
+    {
+      "name": "Salome Vakabuto",
+      "role": "Vice Principal",
+      "responsibility": "Supports school leadership, student learning and daily school operations.",
+      "image": "assets/images/administration/vp-photo.jpg"
+    },
+    {
+      "name": "Shalendra Sharma",
+      "role": "Assistant Principal",
+      "responsibility": "Supports teaching, learning and school-wide programmes.",
+      "image": "assets/images/administration/ap-photo.jpg"
+    }
+  ]
+}

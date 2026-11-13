@@ -1,0 +1,13 @@
+{
+  "title": "School Calendar",
+  "subtitle": "Key dates and school events",
+  "intro": "Please check school communications for confirmed dates and any changes to the school calendar.",
+  "image": "assets/images/calendar/page-calendar.svg",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Calendar information",
+      "text": "The school calendar will be updated when dates and events are confirmed. For urgent changes, refer to official school announcements."
+    }
+  ]
+}

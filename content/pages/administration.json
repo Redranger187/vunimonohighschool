@@ -1,0 +1,11 @@
+{
+  "title": "Administration",
+  "subtitle": "School leadership",
+  "intro": "Meet the team supporting teaching, learning and the daily life of the school.",
+  "image": "assets/images/administration/old-school-photo.jpg",
+  "sections": [
+    {
+      "type": "administration"
+    }
+  ]
+}

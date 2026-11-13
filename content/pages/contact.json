@@ -1,0 +1,10 @@
+{
+  "title": "Contact Us",
+  "subtitle": "Get in touch with the school",
+  "intro": "Contact the school office for general enquiries and official information.",
+  "sections": [
+    {
+      "type": "contact"
+    }
+  ]
+}

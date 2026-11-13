@@ -1,0 +1,50 @@
+{
+  "title": "Welcome to Vunimono High School",
+  "subtitle": "In all things, be human.",
+  "intro": "A proud and dynamic school, committed to quality education, responsible citizenship and the development of every learner.",
+  "heroImage": "assets/images/home/hero-campus.jpg",
+  "heroAlt": "Vunimono High School campus",
+  "sections": [
+    {
+      "type": "direction",
+      "title": "School Direction",
+      "intro": "Learn more about our school and the community behind these values.",
+      "brief": true
+    },
+    {
+      "type": "principal",
+      "title": "Message from the Principal",
+      "intro": "True success is measured not only by academic results, but also by the kind of people our students become.",
+      "image": "assets/images/administration/principal-photo.jpg",
+      "imageAlt": "Principal of Vunimono High School",
+      "name": "Bijen Singh",
+      "role": "Principal, Vunimono High School",
+      "link": "administration.html",
+      "linkText": "Read the Principal's Message and meet the Administration"
+    },
+    {
+      "type": "news",
+      "title": "Latest News & Announcements",
+      "link": "news.html",
+      "linkText": "View all news"
+    },
+    {
+      "type": "feature",
+      "title": "Our Story",
+      "intro": "Discover the people, milestones and founding story that shaped Vunimono High School.",
+      "image": "assets/images/home/academic-class.jpg",
+      "link": "history.html",
+      "linkText": "History and Founder"
+    },
+    {
+      "type": "quicklinks",
+      "title": "Quick Links"
+    },
+    {
+      "type": "gallery",
+      "title": "Photo Gallery",
+      "link": "gallery.html",
+      "linkText": "View gallery"
+    }
+  ]
+}

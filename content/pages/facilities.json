@@ -1,0 +1,26 @@
+{
+  "title": "School Facilities",
+  "subtitle": "Spaces for learning and growth",
+  "intro": "Our school facilities support classroom learning, practical activities, collaboration and student development.",
+  "image": "assets/images/facilities/page-facilities.svg",
+  "sections": [
+    {
+      "type": "gallery",
+      "title": "Our School Environment",
+      "items": [
+        {
+          "image": "assets/images/home/gallery-campus.jpg",
+          "alt": "School campus"
+        },
+        {
+          "image": "assets/images/home/gallery-students.jpg",
+          "alt": "Students learning"
+        },
+        {
+          "image": "assets/images/home/gallery-gathering.jpg",
+          "alt": "School gathering"
+        }
+      ]
+    }
+  ]
+}

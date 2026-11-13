@@ -1,0 +1,29 @@
+{
+  "title": "Downloads and Resources",
+  "subtitle": "Useful school documents",
+  "intro": "This page provides access to school resources and publications made available for families and students.",
+  "image": "assets/images/downloads/page-downloads.svg",
+  "sections": [
+    {
+      "type": "linkcards",
+      "title": "Resources",
+      "items": [
+        {
+          "title": "News Archive",
+          "text": "Read current and past school updates.",
+          "link": "news.html"
+        },
+        {
+          "title": "School Calendar",
+          "text": "Check school dates and events.",
+          "link": "calendar.html"
+        },
+        {
+          "title": "Google Classroom",
+          "text": "Open the school’s digital learning platform.",
+          "link": "https://classroom.google.com/"
+        }
+      ]
+    }
+  ]
+}

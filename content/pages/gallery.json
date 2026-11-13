@@ -1,0 +1,34 @@
+{
+  "title": "Photo Gallery",
+  "subtitle": "Moments from school life",
+  "intro": "Browse photographs celebrating learning, school activities, people and community.",
+  "image": "assets/images/gallery/gallery-1.svg",
+  "sections": [
+    {
+      "type": "gallery",
+      "title": "School Life",
+      "items": [
+        {
+          "image": "assets/images/home/gallery-students.jpg",
+          "alt": "Students learning"
+        },
+        {
+          "image": "assets/images/home/gallery-campus.jpg",
+          "alt": "School campus"
+        },
+        {
+          "image": "assets/images/home/gallery-sport.jpg",
+          "alt": "Students at sport"
+        },
+        {
+          "image": "assets/images/home/gallery-gathering.jpg",
+          "alt": "School gathering"
+        },
+        {
+          "image": "assets/images/home/gallery-team.jpg",
+          "alt": "School team"
+        }
+      ]
+    }
+  ]
+}

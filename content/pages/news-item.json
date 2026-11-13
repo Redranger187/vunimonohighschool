@@ -1,0 +1,10 @@
+{
+  "title": "School Update",
+  "subtitle": "News and announcements",
+  "intro": "Read the full update below.",
+  "sections": [
+    {
+      "type": "newsItem"
+    }
+  ]
+}
